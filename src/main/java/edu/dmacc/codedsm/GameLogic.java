@@ -31,7 +31,6 @@ public class GameLogic {
         } else if (runner.isDefeated()) {
             score = 100;
         }
-
         return score;
     }
 
